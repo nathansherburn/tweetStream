@@ -29,3 +29,8 @@ node_modules
 
 # Private tokens etc for Twitter App
 config.js
+
+# Vim temp files
+*~
+*swo
+*swp
