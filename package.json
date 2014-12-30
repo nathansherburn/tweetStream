@@ -1,0 +1,16 @@
+{
+  "name": "tweetStream",
+  "version": "1.0.0",
+  "description": "Live stream of ENG1003 tweets",
+  "main": "tweetStream.js",
+  "dependencies": {
+    "node-tweet-stream": "^1.6.0",
+    "socket.io": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nathan Sherburn",
+  "license": "ISC"
+}
